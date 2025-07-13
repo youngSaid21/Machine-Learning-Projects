@@ -1,0 +1,8 @@
+# Notebooks Jupyter
+.ipynb_checkpoints/
+
+# Environnements virtuels
+env/
+
+# Fichiers système
+.DS_Store
